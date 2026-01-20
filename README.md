@@ -1,6 +1,6 @@
 # Demo: Trip Cost Automation
 
-This Maven project contains a small Selenium-based skeleton to automate a website that calculates total trip cost.
+This Maven project contain a small Selenium-based skeleton to automate a website that calculates total trip cost.
 
 What I added
 - `src/main/java/com/example/driver/DriverFactory.java` — creates ChromeDriver via WebDriverManager.
