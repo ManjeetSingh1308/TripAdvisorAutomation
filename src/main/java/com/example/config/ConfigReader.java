@@ -13,7 +13,7 @@ public class ConfigReader {
             if (in != null) {
                 props.load(in);
             } else {
-                System.err.println("config.properties not found on classpath");
+                System.err.println("config.properties not found on classpath something else");
             }
         } catch (IOException e) {
             throw new ExceptionInInitializerError(e);
